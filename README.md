@@ -1,6 +1,6 @@
-## Prueba GDALab
+## BASIC API CRUD
 
-Servicio API REST para creación, consulta y eliminación de Clientes, parte del proceso de Selección para GDA Lab.
+Servicio API REST para creación, consulta y eliminación de Clientes.
 
 ## Pasos a Seguir
 
@@ -38,5 +38,4 @@ Accesos por defecto:
 
 ## Créditos
 
-Antonio Padrón (Diseño de Base de Datos, Estructura de la API y Prueba en General)
 Jean Ortega (Desarrollador)
